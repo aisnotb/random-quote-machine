@@ -1,0 +1,5 @@
+1. 安装了emmet
+2. 成功设置了autosave
+3. 安装了open-terminal-here
+
+4. 安装了linter 但是怎么没有用
